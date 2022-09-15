@@ -7,10 +7,14 @@
 
 ### 1. Hand Gesture Volume Control  🔊   
 
+Volume Control through hand gesture using the hand tracking module created and pycaw library in python. 
+
 ![image](https://user-images.githubusercontent.com/77446629/190354363-60897398-869b-4d41-bec1-4ce5e37fd44e.png)
 
 
 ### 2.  Finger Counter ✌️ 
+
+Finger Counter using the hand tracking module created.
 
 ![image](https://user-images.githubusercontent.com/77446629/190353271-f1d8282d-467d-454d-af48-26010b866d77.png)
 
